@@ -5,7 +5,7 @@
 This is an application that automates the process of text analysis with a user friendly GUI. :iphone: It has been implemented using Python and deployed with the Streamlit package. Here's a look at the application page.
 
 <p style="align:center">
-    <img src="https://i.imgur.com/hoVozCc.jpg">
+    <img src="[https://i.imgur.com/hoVozCc.jpg](https://drive.google.com/file/d/1G59jOndBWP-pWWYxagFb9c7TF2hJx6j_/view?usp=drive_link)">
 </p>
 
 
@@ -147,8 +147,4 @@ Once the user inputs a sentence, it is tokenized, tagged and then add to the NER
 
 [6] Mihalcea, Rada & Tarau, Paul. (2004). TextRank: Bringing Order into Text.
 
-## Contact 
 
-For any feedback or queries, please reach out to prakharrathi25@gmail.com.
-
-Note: The project is only for education purposes, no plagiarism is intended.
